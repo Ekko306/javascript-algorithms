@@ -6,6 +6,7 @@ import factorial from '../algorithms/math/factorial/factorial';
 // Launch playground tests by running: npm test -- 'playground'
 function playground() {
   // Replace the next line with your playground code.
+  console.log(123);
   return factorial(5);
 }
 
