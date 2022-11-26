@@ -18,22 +18,23 @@ with related explanations and links for further reading (including ones
 to YouTube videos).
 
 _Read this in other languages:_
-[_简体中文_](README.zh-CN.md),
-[_繁體中文_](README.zh-TW.md),
-[_한국어_](README.ko-KR.md),
-[_日本語_](README.ja-JP.md),
-[_Polski_](README.pl-PL.md),
-[_Français_](README.fr-FR.md),
-[_Español_](README.es-ES.md),
-[_Português_](README.pt-BR.md),
-[_Русский_](README.ru-RU.md),
-[_Türkçe_](README.tr-TR.md),
-[_Italiana_](README.it-IT.md),
-[_Bahasa Indonesia_](README.id-ID.md),
-[_Українська_](README.uk-UA.md),
-[_Arabic_](README.ar-AR.md),
-[_Tiếng Việt_](README.vi-VN.md),
-[_Deutsch_](README.de-DE.md)
+[_English_](README.en-US.md),
+[_简体中文_](READMEs/README.zh-CN.md),
+[_繁體中文_](READMEs/README.zh-TW.md),
+[_한국어_](READMEs/README.ko-KR.md),
+[_日本語_](READMEs/README.ja-JP.md),
+[_Polski_](READMEs/README.pl-PL.md),
+[_Français_](READMEs/README.fr-FR.md),
+[_Español_](READMEs/README.es-ES.md),
+[_Português_](READMEs/README.pt-BR.md),
+[_Русский_](READMEs/README.ru-RU.md),
+[_Türkçe_](READMEs/README.tr-TR.md),
+[_Italiana_](READMEs/README.it-IT.md),
+[_Bahasa Indonesia_](READMEs/README.id-ID.md),
+[_Українська_](READMEs/README.uk-UA.md),
+[_Arabic_](READMEs/README.ar-AR.md),
+[_Tiếng Việt_](READMEs/README.vi-VN.md),
+[_Deutsch_](READMEs/README.de-DE.md)
 
 *☝ Note that this project is meant to be used for learning and researching purposes
 only, and it is **not** meant to be used for production.*
@@ -311,7 +312,7 @@ npm test -- 'playground'
 *Big O notation* is used to classify algorithms according to how their running time or space requirements grow as the input size grows.
 On the chart below you may find most common orders of growth of algorithms specified in Big O notation.
 
-![Big O graphs](./assets/big-o-graph.png)
+![Big O graphs](assets/big-o-graph.png)
 
 Source: [Big O Cheat Sheet](http://bigocheatsheet.com/).
 
