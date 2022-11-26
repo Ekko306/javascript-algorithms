@@ -16,5 +16,6 @@
     "react": {
       "version": "latest"
     }
-  }
+  },
+  "ignorePatterns": ["src/**/*.md", "src/**/*.jpg", "src/**/*.jpeg", "src/**/*.png"]  // 感觉可以正则
 }
